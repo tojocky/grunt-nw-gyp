@@ -1,0 +1,32 @@
+{
+  "name": "grunt-nw-gyp",
+  "version": "1.0.0",
+  "author": "Ion Lupascu <ionlupascu@gmail.com>",
+  "description": "Run nw-gyp commands from Grunt.",
+  "contributors": [
+    {
+      "name": "ion Lupascu",
+      "email": "ionlupascu@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tojocky/grunt-nw-gyp.git"
+  },
+  "keywords": [
+    "gruntplugin",
+    "node-gyp",
+    "build"
+  ],
+  "dependencies": {
+    "nw-gyp": "^0.12.4"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4"
+  },
+  "license": "BSD",
+  "engines": {
+    "node": ">=0.8.0",
+    "npm": ">=1.3.7"
+  },
+}
